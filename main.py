@@ -92,7 +92,7 @@ def evaluate_model(dataset):
 
 if __name__ == "__main__":
     client = openai.OpenAI(
-        api_key="b9e3bf38-cc50-4a19-a301-e8f05776c863",
+        api_key="xxx",
         base_url="https://api.sambanova.ai/v1",
     )
     # 运行模型评估
